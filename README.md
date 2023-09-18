@@ -3,6 +3,7 @@ Student: Adilet Baimyrza Uulu
 Course: L-22/23 Microcontrollers Programming
 Introduction
 This is the project I have done for the Microcontrollers Programming course, in attempts to learn the basics of working with and programming microcontrollers. 
+![](photo_5783002052375461947_y.jpg)
 
 The Digital Clock with a Proximity Alarm project utilizes an Arduino Uno microcontroller, a Real Time Clock (RTC) module for timekeeping, an LCD1602 display for visual feedback, and a passive buzzer to play a selection of melodies as alarms. Users have the flexibility to customize the alarm time and choose from a variety of melodies, including iconic tunes such as the Game of Thrones theme song and the Harry Potter theme song.
 How does it work?
