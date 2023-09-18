@@ -60,7 +60,7 @@ These are the components that come from the Super Starter Kit UNO R3 Project tha
 
 If you connect all the components together, you would end up with a scheme that is similar to the one below. There are a lot of resources on the internet on how to connect the components, all of them have minor differences but the logic is the same. Some of them use transistors as shown in the figure below, mine doesn't have.
 
-![Electronics Assembly](Screenshot from 2023-09-18 13-34-21.png)
+![Electronics Assembly]([Screenshot from 2023-09-18 13-34-21.png](https://github.com/AdiletBaimyrza/clock-with-alarm-arduino-project/blob/main/Screenshot%20from%202023-09-18%2013-34-21.png))
 
 ## Programming
 
