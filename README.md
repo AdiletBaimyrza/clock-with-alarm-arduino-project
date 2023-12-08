@@ -66,7 +66,7 @@ If you connect all the components together, you would end up with a scheme that 
 
 At this point, you are almost good to go. The only thing that matters now is coding. You are going to need to install the latest version of Arduino IDE from their website. Follow the instructions and copy the code from the repository: 
 
-[GitHub Repository](https://github.com/AdiletBaimyrza/clock-with-alarm-arduino-project/main.ino)
+[GitHub Repository](https://github.com/AdiletBaimyrza/clock-with-alarm-arduino-project/blob/main/main.ino)
 
 As long as you do it, you just have to upload the code to the microcontroller, and that's it. Thank you for your attention.
 
